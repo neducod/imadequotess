@@ -60,3 +60,10 @@ body{
   box-shadow: 0 0 5px #f182e8, 0 0 20px #f182e8, 0 0 50px #f182e8,
     0 0 100px #f182e8;
 }
+
+@media (max-width: 480px) { /* Mobile */
+  button {
+    padding: 0.5em 0.8em;
+    font-size: 0.8rem;
+  }
+}
