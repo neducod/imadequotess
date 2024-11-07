@@ -64,10 +64,10 @@ body{
 @media (max-width: 480px) { /* Mobile */
     .wrapper{
         height: auto;
-    }
+    }/*
     button {
       padding: 0.8rem 1.5rem;
       font-size: 1rem;
       width: 80%;
-    }
+    }*/
   }
